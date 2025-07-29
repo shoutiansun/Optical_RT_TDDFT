@@ -40,3 +40,6 @@ If you see Chinese characters in comments or labels, you can easily translate th
 
 5. Explore & have fun!
 Try different values of eta and sigma, experiment with different kick directions, and analyze how your spectrum evolves.
+
+<img width="1920" height="1440" alt="spectrum" src="https://github.com/user-attachments/assets/fab30644-3bc1-49dc-808a-5b9a0f794313" />
+
