@@ -43,3 +43,8 @@ Try different values of eta and sigma, experiment with different kick directions
 
 <img width="1920" height="1440" alt="spectrum" src="https://github.com/user-attachments/assets/fab30644-3bc1-49dc-808a-5b9a0f794313" />
 
+Test eta and sigma:
+<img width="2400" height="1500" alt="spectrum_voigt_comparison" src="https://github.com/user-attachments/assets/4c8e3191-ac2b-42f3-a073-64099b6c1a84" />
+
+
+
